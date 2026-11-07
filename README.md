@@ -36,6 +36,14 @@ will be shared through Google Drive.
 The notebook implements the proposed E3-level fusion
 model with a single GCN layer.
 
+## Installation
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Code Availability
 
 The implementation will be released following
